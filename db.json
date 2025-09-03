@@ -9,9 +9,9 @@
       "id": 1
     },
     {
-      "email": "admin@gmail.com",
+      "email": "akash@learnwithsumit.com",
       "password": "$2a$10$V7MUt8acy1rR542vP2cVYOpQ7huY2rCruWIPMPX196AmCgunJUIQa",
-      "name": "Admin",
+      "name": "Akash Ahmed",
       "confirmPassword": "123456",
       "rememberMe": true,
       "id": 2
@@ -24,7 +24,7 @@
       "users": [
         {
           "email": "jamilrahman2001@gmail.com",
-          "name": "Sumit Saha",
+          "name": "Jamil",
           "id": 1
         },
         {
@@ -42,7 +42,7 @@
       "users": [
         {
           "email": "jamilrahman2001@gmail.com",
-          "name": "Sumit Saha",
+          "name": "Jamil",
           "id": 1
         },
         {
@@ -61,7 +61,7 @@
       "conversationId": 1,
       "sender": {
         "email": "jamilrahman2001@gmail.com",
-        "name": "Sumit Saha",
+        "name": "Jamil",
         "id": 1
       },
       "receiver": {
@@ -82,7 +82,7 @@
       },
       "receiver": {
         "email": "jamilrahman2001@gmail.com",
-        "name": "Sumit Saha",
+        "name": "Jamil",
         "id": 1
       },
       "message": "How r u?",
