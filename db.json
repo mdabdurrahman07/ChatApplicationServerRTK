@@ -15,19 +15,27 @@
       "confirmPassword": "123456",
       "rememberMe": true,
       "id": 2
+    },
+    {
+      "email": "komola@gamil.com",
+      "password": "$2a$10$ksrXP/7GBW0ZMA6ZxEC66OtewuiZU0z3rkjqyyUhNneqpdeExp5hO",
+      "name": "komola",
+      "confirmPassword": "123456",
+      "rememberMe": true,
+      "id": 3
     }
   ],
   "conversations": [
     {
       "id": 1,
-      "participants": "jamilrahman2001@gmail.com-akash@learnwithsumit.com",
+      "participants": "komola@gamil.com-akash@learnwithsumit.com",
       "users": [
         {
-          "email": "jamilrahman2001@gmail.com",
-          "name": "Jamil",
+          "email": "komola@gamil.com",
+          "name": "komola",
           "confirmPassword": "123456",
           "rememberMe": true,
-          "id": 1
+          "id": 3
         },
         {
           "email": "akash@learnwithsumit.com",
@@ -38,8 +46,8 @@
           "id": 2
         }
       ],
-      "message": "everything all right buddy ?",
-      "timestamp": 1757168737055
+      "message": "hello im komola rocket nice to see you ?",
+      "timestamp": 1757172313330
     },
     {
       "id": 2,
