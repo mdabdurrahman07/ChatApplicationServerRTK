@@ -25,16 +25,21 @@
         {
           "email": "jamilrahman2001@gmail.com",
           "name": "Jamil",
+          "confirmPassword": "123456",
+          "rememberMe": true,
           "id": 1
         },
         {
           "email": "akash@learnwithsumit.com",
+          "password": "$2a$10$V7MUt8acy1rR542vP2cVYOpQ7huY2rCruWIPMPX196AmCgunJUIQa",
           "name": "Akash Ahmed",
+          "confirmPassword": "123456",
+          "rememberMe": true,
           "id": 2
         }
       ],
-      "message": "How are you?",
-      "timestamp": 1661976143678
+      "message": "everything all right buddy ?",
+      "timestamp": 1757168737055
     },
     {
       "id": 2,
