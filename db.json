@@ -17,89 +17,14 @@
       "id": 2
     },
     {
-      "email": "komola@gamil.com",
-      "password": "$2a$10$ksrXP/7GBW0ZMA6ZxEC66OtewuiZU0z3rkjqyyUhNneqpdeExp5hO",
-      "name": "komola",
+      "email": "mok@gmail.com",
+      "password": "$2a$10$vd.nnxZpJdb/jZTXGUnq0emsSW/ryj.nWhDWMFV74dtNSsedtG17u",
+      "name": "moklesh",
       "confirmPassword": "123456",
       "rememberMe": true,
-      "id": 3
+      "id": 4
     }
   ],
-  "conversations": [
-    {
-      "id": 1,
-      "participants": "komola@gamil.com-akash@learnwithsumit.com",
-      "users": [
-        {
-          "email": "komola@gamil.com",
-          "name": "komola",
-          "confirmPassword": "123456",
-          "rememberMe": true,
-          "id": 3
-        },
-        {
-          "email": "akash@learnwithsumit.com",
-          "password": "$2a$10$V7MUt8acy1rR542vP2cVYOpQ7huY2rCruWIPMPX196AmCgunJUIQa",
-          "name": "Akash Ahmed",
-          "confirmPassword": "123456",
-          "rememberMe": true,
-          "id": 2
-        }
-      ],
-      "message": "hello im komola rocket nice to see you ?",
-      "timestamp": 1757172313330
-    },
-    {
-      "id": 2,
-      "participants": "jamilrahman2001@gmail.com-saad@learnwithsumit.com",
-      "users": [
-        {
-          "email": "jamilrahman2001@gmail.com",
-          "name": "Jamil",
-          "id": 1
-        },
-        {
-          "email": "akash@learnwithsumit.com",
-          "name": "Saad Hasan",
-          "id": 3
-        }
-      ],
-      "message": "How are you?",
-      "timestamp": 1661976143678
-    }
-  ],
-  "messages": [
-    {
-      "id": 1,
-      "conversationId": 1,
-      "sender": {
-        "email": "jamilrahman2001@gmail.com",
-        "name": "Jamil",
-        "id": 1
-      },
-      "receiver": {
-        "email": "akash@learnwithsumit.com",
-        "name": "Akash Ahmed",
-        "id": 2
-      },
-      "message": "Hello",
-      "timestamp": 1661976143557
-    },
-    {
-      "id": 2,
-      "conversationId": 1,
-      "sender": {
-        "email": "akash@learnwithsumit.com",
-        "name": "Akash Ahmed",
-        "id": 2
-      },
-      "receiver": {
-        "email": "jamilrahman2001@gmail.com",
-        "name": "Jamil",
-        "id": 1
-      },
-      "message": "How r u?",
-      "timestamp": 1661976143678
-    }
-  ]
+  "conversations": [],
+  "messages": []
 }
