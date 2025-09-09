@@ -15,16 +15,113 @@
       "confirmPassword": "123456",
       "rememberMe": true,
       "id": 2
-    },
-    {
-      "email": "mok@gmail.com",
-      "password": "$2a$10$vd.nnxZpJdb/jZTXGUnq0emsSW/ryj.nWhDWMFV74dtNSsedtG17u",
-      "name": "moklesh",
-      "confirmPassword": "123456",
-      "rememberMe": true,
-      "id": 4
     }
   ],
-  "conversations": [],
-  "messages": []
+  "conversations": [
+    {
+      "participants": "jamilrahman2001@gmail.com-akash@learnwithsumit.com",
+      "users": [
+        {
+          "email": "jamilrahman2001@gmail.com",
+          "name": "Jamil",
+          "confirmPassword": "123456",
+          "rememberMe": true,
+          "id": 1
+        },
+        {
+          "email": "akash@learnwithsumit.com",
+          "name": "Akash Ahmed",
+          "confirmPassword": "123456",
+          "rememberMe": true,
+          "id": 2
+        }
+      ],
+      "message": "apni kamon asen ?",
+      "timestamp": 1757429112659,
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "jamilrahman2001@gmail.com",
+        "name": "Jamil",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 1
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "password": "$2a$10$V7MUt8acy1rR542vP2cVYOpQ7huY2rCruWIPMPX196AmCgunJUIQa",
+        "name": "Akash Ahmed",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 2
+      },
+      "message": "hello bhai\n",
+      "timestamp": 1757429050053,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "akash@learnwithsumit.com",
+        "name": "Akash Ahmed",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 2
+      },
+      "receiver": {
+        "email": "jamilrahman2001@gmail.com",
+        "name": "Jamil",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 1
+      },
+      "message": "ji bhai kamon asen ?",
+      "timestamp": 1757429079036,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "jamilrahman2001@gmail.com",
+        "name": "Jamil",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 1
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "name": "Akash Ahmed",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 2
+      },
+      "message": "bhalo,",
+      "timestamp": 1757429101558,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "jamilrahman2001@gmail.com",
+        "name": "Jamil",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 1
+      },
+      "receiver": {
+        "email": "akash@learnwithsumit.com",
+        "name": "Akash Ahmed",
+        "confirmPassword": "123456",
+        "rememberMe": true,
+        "id": 2
+      },
+      "message": "apni kamon asen ?",
+      "timestamp": 1757429112659,
+      "id": 4
+    }
+  ]
 }
